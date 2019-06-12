@@ -1,0 +1,11 @@
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.csprojAssemblyReference.cache
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.AssemblyInfoInputs.cache
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.AssemblyInfo.cs
+C:\Users\gomez\Desktop\magma\bin\Debug\netcoreapp2.2\magma.deps.json
+C:\Users\gomez\Desktop\magma\bin\Debug\netcoreapp2.2\magma.runtimeconfig.json
+C:\Users\gomez\Desktop\magma\bin\Debug\netcoreapp2.2\magma.runtimeconfig.dev.json
+C:\Users\gomez\Desktop\magma\bin\Debug\netcoreapp2.2\magma.dll
+C:\Users\gomez\Desktop\magma\bin\Debug\netcoreapp2.2\magma.pdb
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.dll
+C:\Users\gomez\Desktop\magma\obj\Debug\netcoreapp2.2\magma.pdb
